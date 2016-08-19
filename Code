@@ -1,0 +1,8 @@
+options metaserver="localhost"
+        metaport=8561
+        metauser="sasadm"
+        metapass="password"
+        metaprotocol=bridge
+        metarepository="Foundation";
+
+%mdugrpac
